@@ -25,10 +25,10 @@
 #include <wups/button_combo/api.h>
 
 // Mandatory plugin information.
-WUPS_PLUGIN_NAME("SwipSwapMe");
-WUPS_PLUGIN_DESCRIPTION("Swaps the GamePad and TV screen when pressing a certain button combination");
+WUPS_PLUGIN_NAME("SwipSwapMe Fork");
+WUPS_PLUGIN_DESCRIPTION("Swaps the GamePad and TV screen when pressing a certain button combination...");
 WUPS_PLUGIN_VERSION(PLUGIN_VERSION_FULL);
-WUPS_PLUGIN_AUTHOR("Maschell");
+WUPS_PLUGIN_AUTHOR("King.62");
 WUPS_PLUGIN_LICENSE("GPL");
 
 // FS Access
